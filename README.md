@@ -1,4 +1,6 @@
 # ImageSubZip
+画像ファイルをまとめて、且つ50MB以下のZIPファイルへ分ける
+
 Create zip files under 50MB
 
 # Set up
